@@ -41,6 +41,9 @@ The format is basically like this:
           "text": "“Some text in a blockquote.”"
         }
       ]
+    },
+    {
+      "type": "horizontal-rule"
     }
   ]
 }
@@ -48,13 +51,15 @@ The format is basically like this:
 
 All story text is inside of `paragraph` elements (I think), potentially nested as children of `center` or `blockquote` elements.
 
-The text property of `paragraph` elements can contain some basic HTML tags, including `<i>`, `<b>`, and `<hr>` (I think that's all).
+The text property of `paragraph` elements can contain some basic HTML tags, including `<i>` and `<b>` (I think that's all).
 
 `blockquote` can potentially contain `center` elements as children.
 
 You should always add one line break between elements. `breakline` indicates that you should add an extra one.
 
+`horizontal-rule` is equivalent to an HTML `<hr>`. There's only one so far in the whole library (in The Mysterious Ship). 
+
 ## TODO
 
 * Add poetry and other works
-* Add story descriptions, publish dates
+* Add story descriptions, publish dates.

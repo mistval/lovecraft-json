@@ -243,8 +243,7 @@
       "type": "breakline"
     },
     {
-      "type": "paragraph",
-      "text": "<hr>"
+      "type": "horizontal-rule"
     },
     {
       "type": "breakline"
