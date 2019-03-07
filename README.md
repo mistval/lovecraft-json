@@ -48,7 +48,7 @@ The format is basically like this:
 
 All story text is inside of `paragraph` elements (I think), potentially nested as children of `center` or `blockquote` elements.
 
-The text property of `paragraph` elements can contain some basic HTML tags, including <i>, <b>, and <hr> (I think that's all).
+The text property of `paragraph` elements can contain some basic HTML tags, including `<i>`, `<b>`, and `<hr>` (I think that's all).
 
 `blockquote` can potentially contain `center` elements as children.
 
