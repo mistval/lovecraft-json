@@ -17,8 +17,16 @@
           "text": "quasi sint, conspicienda hominibus exhibeant.”"
         },
         {
-          "type": "paragraph",
-          "text": "<i>—Lactantius.</i>"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "<i>—Lactantius.</i>"
+            }
+          ]
         }
       ]
     },

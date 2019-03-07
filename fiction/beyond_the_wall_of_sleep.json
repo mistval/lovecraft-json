@@ -13,8 +13,20 @@
           "text": "“I have an exposition of sleep come upon me.”"
         },
         {
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "—Shakespeare."
+            }
+          ]
+        },
+        {
           "type": "paragraph",
-          "text": "—Shakespeare."
+          "text": ""
         }
       ]
     },

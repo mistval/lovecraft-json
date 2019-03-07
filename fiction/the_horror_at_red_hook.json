@@ -13,8 +13,20 @@
           "text": "“There are sacraments of evil as well as of good about us, and we live and move to my belief in an unknown world, a place where there are caves and shadows and dwellers in twilight. It is possible that man may sometimes return on the track of evolution, and it is my belief that an awful lore is not yet dead.”"
         },
         {
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "<i>—Arthur Machen.</i>"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
-          "text": "<i>—Arthur Machen.</i>"
+          "text": ""
         }
       ]
     },
@@ -231,8 +243,16 @@
           "text": "“In case of sudden or unexplained accident or death on my part, please deliver me or my body unquestioningly into the hands of the bearer and his associates. Everything, for me, and perhaps for you, depends on absolute compliance. Explanations can come later—do not fail me now."
         },
         {
-          "type": "paragraph",
-          "text": "ROBERT SUYDAM.”"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "ROBERT SUYDAM.”"
+            }
+          ]
         }
       ]
     },

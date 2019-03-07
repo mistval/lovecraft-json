@@ -13,8 +13,20 @@
           "text": "“Sedibus ut saltem placidis in morte quiescam.”"
         },
         {
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "—<i>Virgil.</i>"
+            }
+          ]
+        },
+        {
           "type": "paragraph",
-          "text": "—<i>Virgil.</i>"
+          "text": ""
         }
       ]
     },

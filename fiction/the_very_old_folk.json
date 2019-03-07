@@ -6,12 +6,21 @@
   "description": "",
   "body": [
     {
-      "type": "paragraph",
-      "text": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td><font size=\"-1\">Thursday"
+      "type": "right",
+      "children": [
+        {
+          "type": "paragraph",
+          "text": "Thursday"
+        },
+        {
+          "type": "paragraph",
+          "text": "[November 3, 1927]"
+        }
+      ]
     },
     {
       "type": "paragraph",
-      "text": "[November 3, 1927]</font></td></tr></tbody></table>  Dear Melmoth:–"
+      "text": "Dear Melmoth:–"
     },
     {
       "type": "paragraph",
@@ -66,12 +75,20 @@
       "text": "And then I waked. It was the most vivid dream in years, drawing upon wells of the subconscious long untouched and forgotten. Of the fate of that cohort no record exists, but the town at least was saved—for encyclopædias tell of the survival of Pompelo to this day, under the modern Spanish name of Pompelona. . . ."
     },
     {
-      "type": "paragraph",
-      "text": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td><font face=\"Arial,Sans-Serif\" size=\"-1\">Yrs for Gothick Supremacy–"
+      "type": "breakline"
     },
     {
-      "type": "paragraph",
-      "text": "C · IVLIVS · VERVS · MAXIMINVS.</font></td></tr></tbody></table>"
+      "type": "right",
+      "children": [
+        {
+          "type": "paragraph",
+          "text": "Yrs for Gothick Supremacy–"
+        },
+        {
+          "type": "paragraph",
+          "text": "C · IVLIVS · VERVS · MAXIMINVS."
+        }
+      ]
     }
   ]
 }

@@ -484,16 +484,25 @@
       "type": "blockquote",
       "children": [
         {
-          "type": "paragraph",
-          "text": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td><font face=\"Arial,Sans-Serif\" size=\"-1\">49, Dampier Str.,"
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "49, Dampier Str.,"
+            },
+            {
+              "type": "paragraph",
+              "text": "Pilbarra, W. Australia,"
+            },
+            {
+              "type": "paragraph",
+              "text": "18 May, 1934."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Pilbarra, W. Australia,"
-        },
-        {
-          "type": "paragraph",
-          "text": "18 May, 1934.</font></td></tr></tbody></table>  Prof. N. W. Peaslee,"
+          "text": "Prof. N. W. Peaslee,"
         },
         {
           "type": "paragraph",
@@ -550,16 +559,24 @@
           "type": "breakline"
         },
         {
-          "type": "paragraph",
-          "text": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"><tbody><tr><td><font face=\"Arial,Sans-Serif\" size=\"-1\">Believe me,"
+          "type": "breakline"
         },
         {
-          "type": "paragraph",
-          "text": "Most faithfully yours,"
-        },
-        {
-          "type": "paragraph",
-          "text": "Robert B. F. Mackenzie.</font></td></tr></tbody></table>"
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Believe me,"
+            },
+            {
+              "type": "paragraph",
+              "text": "Most faithfully yours,"
+            },
+            {
+              "type": "paragraph",
+              "text": "Robert B. F. Mackenzie."
+            }
+          ]
         }
       ]
     },

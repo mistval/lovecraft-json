@@ -120,12 +120,24 @@
           "text": "For gods sake never go nere that mound it is part of some kind of a world so devilish and old it cannot be spoke about me and Walker went and was took into the thing just melted at times and made up agen and the whole world outside is helpless alongside of what they can do—they what live forever young as they like and you cant tell if they are really men or just gostes—and what they do cant be spoke about and this is only 1 entrance—you cant tell how big the whole thing is—after what we seen I dont want to live aney more France was nothing besides this—and see that people always keep away o god they wood if they see poor walker like he was in the end."
         },
         {
-          "type": "paragraph",
-          "text": "Yrs truely"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Yrs truely"
+            },
+            {
+              "type": "paragraph",
+              "text": "Ed Clay"
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Ed Clay"
+          "text": ""
         }
       ]
     },

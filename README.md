@@ -18,7 +18,16 @@ The format is basically like this:
       "children": [
         {
           "type": "paragraph",
-          "text": "I."
+          "text": "Some centered text"
+        }
+      ]
+    },
+    {
+      "type": "right",
+      "children": [
+        {
+          "type": "paragraph",
+          "text": "Some right aligned text"
         }
       ]
     },
@@ -49,7 +58,7 @@ The format is basically like this:
 }
 ```
 
-All story text is inside of `paragraph` elements (I think), potentially nested as children of `center` or `blockquote` elements.
+All story text is inside of `paragraph` elements, potentially nested as children of `center`, `right`, or `blockquote` elements.
 
 The text property of `paragraph` elements can contain some basic HTML tags, including `<i>` and `<b>` (I think that's all).
 

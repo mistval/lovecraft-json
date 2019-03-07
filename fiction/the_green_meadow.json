@@ -40,8 +40,16 @@
           "text": "The presence, nature, and message of the strange book form so momentous a problem, that no explanation can even be attempted. The text, as far as preserved, is here rendered as literally as our language permits, in the hope that some reader may eventually hit upon an interpretation and solve one of the greatest scientific mysteries of recent years."
         },
         {
-          "type": "paragraph",
-          "text": "—E.N.B.—L.T., Jun."
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "—E.N.B.—L.T., Jun."
+            }
+          ]
         }
       ]
     },

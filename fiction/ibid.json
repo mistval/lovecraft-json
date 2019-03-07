@@ -10,7 +10,16 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "(“. . . as Ibid says in his famous <i>Lives of the Poets.</i>”—From a student theme.)"
+          "text": "(“. . . as Ibid says in his famous <i>Lives of the Poets.</i>”"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "—From a student theme.)"
+            }
+          ]
         }
       ]
     },
@@ -19,7 +28,7 @@
     },
     {
       "type": "paragraph",
-      "text": "The erroneous idea that Ibid is the author of the <i>Lives</i> is so frequently met with, even among those pretending to a degree of culture, that it is worth correcting. It should be a matter of general knowledge that Cf. is responsible for this work. Ibid’s masterpiece, on the other hand, was the famous <i>Op. Cit.</i> wherein all the significant undercurrents of Graeco-Roman expression were crystallised once for all—and with admirable acuteness, notwithstanding the surprisingly late date at which Ibid wrote. There is a false report—very commonly reproduced in modern books prior to Von Schweinkopf’s monumental <i>Geschichte der Ostrogothen in Italien</i>—that Ibid was a Romanised Visigoth of Ataulf’s horde who settled in Placentia about 410 A.D. The contrary cannot be too strongly emphasised; for Von Schweinkopf, and since his time Littlewit<font size=\"-2\"><sup>1</sup></font> and Bêtenoir,<font size=\"-2\"><sup>2</sup></font> have shewn with irrefutable force that this strikingly isolated figure was a genuine Roman—or at least as genuine a Roman as that degenerate and mongrelised age could produce—of whom one might well say what Gibbon said of Boethius, “that he was the last whom Cato or Tully could have acknowledged for their countryman.” He was, like Boethius and nearly all the eminent men of his age, of the great Anician family, and traced his genealogy with much exactitude and self-satisfaction to all the heroes of the republic. His full name—long and pompous according to the custom of an age which had lost the trinomial simplicity of classic Roman nomenclature—is stated by Von Schweinkopf<font size=\"-2\"><sup>3</sup></font> to have been Caius Anicius Magnus Furius Camillus Æmilianus Cornelius Valerius Pompeius Julius Ibidus; though Littlewit<font size=\"-2\"><sup>4</sup></font> rejects <i>Æmilianus</i> and adds <i>Claudius Decius Junianus;</i> whilst Bêtenoir<font size=\"-2\"><sup>5</sup></font> differs radically, giving the full name as Magnus Furius Camillus Aurelius Antoninus Flavius Anicius Petronius Valentinianus Aegidus Ibidus."
+      "text": "The erroneous idea that Ibid is the author of the <i>Lives</i> is so frequently met with, even among those pretending to a degree of culture, that it is worth correcting. It should be a matter of general knowledge that Cf. is responsible for this work. Ibid’s masterpiece, on the other hand, was the famous <i>Op. Cit.</i> wherein all the significant undercurrents of Graeco-Roman expression were crystallised once for all—and with admirable acuteness, notwithstanding the surprisingly late date at which Ibid wrote. There is a false report—very commonly reproduced in modern books prior to Von Schweinkopf’s monumental <i>Geschichte der Ostrogothen in Italien</i>—that Ibid was a Romanised Visigoth of Ataulf’s horde who settled in Placentia about 410 A.D. The contrary cannot be too strongly emphasised; for Von Schweinkopf, and since his time Littlewit<sup>1</sup> and Bêtenoir,<sup>2</sup> have shewn with irrefutable force that this strikingly isolated figure was a genuine Roman—or at least as genuine a Roman as that degenerate and mongrelised age could produce—of whom one might well say what Gibbon said of Boethius, “that he was the last whom Cato or Tully could have acknowledged for their countryman.” He was, like Boethius and nearly all the eminent men of his age, of the great Anician family, and traced his genealogy with much exactitude and self-satisfaction to all the heroes of the republic. His full name—long and pompous according to the custom of an age which had lost the trinomial simplicity of classic Roman nomenclature—is stated by Von Schweinkopf<sup>3</sup> to have been Caius Anicius Magnus Furius Camillus Æmilianus Cornelius Valerius Pompeius Julius Ibidus; though Littlewit<sup>4</sup> rejects <i>Æmilianus</i> and adds <i>Claudius Decius Junianus;</i> whilst Bêtenoir<sup>5</sup> differs radically, giving the full name as Magnus Furius Camillus Aurelius Antoninus Flavius Anicius Petronius Valentinianus Aegidus Ibidus."
     },
     {
       "type": "paragraph",
@@ -35,7 +44,7 @@
     },
     {
       "type": "paragraph",
-      "text": "William the Conqueror, finding it in an abbey niche where the pious family of Alcuin had placed it (believing it to be the skull of a saint<font size=\"-2\"><sup>6</sup></font> who had miraculously annihilated the Lombards by his prayers), did reverence to its osseous antiquity; and even the rough soldiers of Cromwell, upon destroying Ballylough Abbey in Ireland in 1650 (it having been secretly transported thither by a devout Papist in 1539, upon Henry VIII’s dissolution of the English monasteries), declined to offer violence to a relic so venerable."
+      "text": "William the Conqueror, finding it in an abbey niche where the pious family of Alcuin had placed it (believing it to be the skull of a saint<sup>6</sup> who had miraculously annihilated the Lombards by his prayers), did reverence to its osseous antiquity; and even the rough soldiers of Cromwell, upon destroying Ballylough Abbey in Ireland in 1650 (it having been secretly transported thither by a devout Papist in 1539, upon Henry VIII’s dissolution of the English monasteries), declined to offer violence to a relic so venerable."
     },
     {
       "type": "paragraph",
@@ -98,27 +107,27 @@
     },
     {
       "type": "paragraph",
-      "text": "<font size=\"-2\"><sup>1</sup></font> <i>Rome and Byzantium: A Study in Survival</i> (Waukesha, 1869), Vol. XX, p. 598."
+      "text": "<sup>1</sup> <i>Rome and Byzantium: A Study in Survival</i> (Waukesha, 1869), Vol. XX, p. 598."
     },
     {
       "type": "paragraph",
-      "text": "<font size=\"-2\"><sup>2</sup></font> <i>Influences Romains dans le Moyen Age</i> (Fond du Lac, 1877), Vol. XV, p. 720."
+      "text": "<sup>2</sup> <i>Influences Romains dans le Moyen Age</i> (Fond du Lac, 1877), Vol. XV, p. 720."
     },
     {
       "type": "paragraph",
-      "text": "<font size=\"-2\"><sup>3</sup></font> Following Procopius, <i>Goth.</i> x.y.z."
+      "text": "<sup>3</sup> Following Procopius, <i>Goth.</i> x.y.z."
     },
     {
       "type": "paragraph",
-      "text": "<font size=\"-2\"><sup>4</sup></font> Following Jornandes, Codex Murat. xxj. 4144."
+      "text": "<sup>4</sup> Following Jornandes, Codex Murat. xxj. 4144."
     },
     {
       "type": "paragraph",
-      "text": "<font size=\"-2\"><sup>5</sup></font> After Pagi, 50–50."
+      "text": "<sup>5</sup> After Pagi, 50–50."
     },
     {
       "type": "paragraph",
-      "text": "<font size=\"-2\"><sup>6</sup></font> Not till the appearance of von Schweinkopf’s work in 1797 were St. Ibid and the rhetorician properly re-identified."
+      "text": "<sup>6</sup> Not till the appearance of von Schweinkopf’s work in 1797 were St. Ibid and the rhetorician properly re-identified."
     }
   ]
 }

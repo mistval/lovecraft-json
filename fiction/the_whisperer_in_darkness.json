@@ -100,19 +100,32 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">    <tbody><tr>       <td>          <font size=\"-1\">R.F.D. #2,"
+          "text": ""
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "R.F.D. #2,"
+            },
+            {
+              "type": "paragraph",
+              "text": "Townshend, Windham Co.,"
+            },
+            {
+              "type": "paragraph",
+              "text": "Vermont."
+            },
+            {
+              "type": "paragraph",
+              "text": "May 5, 1928."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Townshend, Windham Co.,"
-        },
-        {
-          "type": "paragraph",
-          "text": "Vermont."
-        },
-        {
-          "type": "paragraph",
-          "text": "May 5, 1928.</font>       </td>    </tr> </tbody></table>   Albert N. Wilmarth, Esq.,"
+          "text": "Albert N. Wilmarth, Esq.,"
         },
         {
           "type": "paragraph",
@@ -182,12 +195,24 @@
           "text": "Hoping that I am not bothering you unduly, and that you will decide to get in touch with me rather than throw this letter into the waste basket as a madman’s raving, I am"
         },
         {
-          "type": "paragraph",
-          "text": "Yrs. very truly,"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Yrs. very truly,"
+            },
+            {
+              "type": "paragraph",
+              "text": "HENRY W. AKELEY"
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "HENRY W. AKELEY  P.S. I am making some extra prints of certain photographs taken by me, which I think will help to prove a number of the points I have touched on. The old people think they are monstrously true. I shall send you these very soon if you are interested. H.W.A."
+          "text": "P.S. I am making some extra prints of certain photographs taken by me, which I think will help to prove a number of the points I have touched on. The old people think they are monstrously true. I shall send you these very soon if you are interested. H.W.A."
         }
       ]
     },
@@ -433,8 +458,16 @@
           "text": "APPRECIATE YOUR POSITION BUT CAN DO NOTHING. TAKE NO ACTION YOURSELF FOR IT COULD ONLY HARM BOTH. WAIT FOR EXPLANATION."
         },
         {
-          "type": "paragraph",
-          "text": "HENRY AKELY"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "HENRY AKELY"
+            }
+          ]
         }
       ]
     },
@@ -461,20 +494,37 @@
       "type": "blockquote",
       "children": [
         {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Monday."
+            }
+          ]
+        },
+        {
           "type": "paragraph",
-          "text": "Monday.  Dear Wilmarth—"
+          "text": "Dear Wilmarth—"
         },
         {
           "type": "paragraph",
           "text": "A rather discouraging P.S. to my last. Last night was thickly cloudy—though no rain—and not a bit of moonlight got through. Things were pretty bad, and I think the end is getting near, in spite of all we have hoped. After midnight something landed on the roof of the house, and the dogs all rushed up to see what it was. I could hear them snapping and tearing around, and then one managed to get on the roof by jumping from the low ell. There was a terrible fight up there, and I heard a frightful <i>buzzing</i> which I’ll never forget. And then there was a shocking smell. About the same time bullets came through the window and nearly grazed me. I think the main line of the hill creatures had got close to the house when the dogs divided because of the roof business. What was up there I don’t know yet, but I’m afraid the creatures are learning to steer better with their space wings. I put out the light and used the windows for loopholes, and raked all around the house with rifle fire aimed just high enough not to hit the dogs. That seemed to end the business, but in the morning I found great pools of blood in the yard, beside pools of a green sticky stuff that had the worst odour I have ever smelled. I climbed up on the roof and found more of the sticky stuff there. Five of the dogs were killed—I’m afraid I hit one by aiming too low, for he was shot in the back. Now I am setting the panes the shots broke, and am going to Brattleboro for more dogs. I guess the men at the kennels think I am crazy. Will drop another note later. Suppose I’ll be ready for moving in a week or two, though it nearly kills me to think of it."
         },
         {
-          "type": "paragraph",
-          "text": "Hastily—"
+          "type": "breakline"
         },
         {
-          "type": "paragraph",
-          "text": "AKELEY"
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Hastily—"
+            },
+            {
+              "type": "paragraph",
+              "text": "AKELEY"
+            }
+          ]
         }
       ]
     },
@@ -489,8 +539,16 @@
       "type": "blockquote",
       "children": [
         {
-          "type": "paragraph",
-          "text": "Tuesday."
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Tuesday."
+            }
+          ]
+        },
+        {
+          "type": "breakline"
         },
         {
           "type": "paragraph",
@@ -505,8 +563,16 @@
           "text": "It was a mistake for me to try to send you that phonograph record and black stone. Better smash the record before it’s too late. Will drop you another line tomorrow if I’m still here. Wish I could arrange to get my books and things to Brattleboro and board there. I would run off without anything if I could, but something inside my mind holds me back. I can slip out to Brattleboro, where I ought to be safe, but I feel just as much a prisoner there as at the house. And I seem to know that I couldn’t get much farther even if I dropped everything and tried. It is horrible—don’t get mixed up in this."
         },
         {
-          "type": "paragraph",
-          "text": "Yrs—AKELEY"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Yrs—AKELEY"
+            }
+          ]
         }
       ]
     },
@@ -521,8 +587,16 @@
       "type": "blockquote",
       "children": [
         {
-          "type": "paragraph",
-          "text": "Wednesday."
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Wednesday."
+            }
+          ]
+        },
+        {
+          "type": "breakline"
         },
         {
           "type": "paragraph",
@@ -573,8 +647,16 @@
           "text": "Write my son George if you don’t hear soon. Goodbye, smash that record, and don’t mix up in this."
         },
         {
-          "type": "paragraph",
-          "text": "Yrs—AKELEY"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Yrs—AKELEY"
+            }
+          ]
         }
       ]
     },
@@ -611,12 +693,21 @@
       "type": "blockquote",
       "children": [
         {
-          "type": "paragraph",
-          "text": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">    <tbody><tr>       <td>          <font size=\"-1\">Townshend, Vermont,"
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Townshend, Vermont,"
+            },
+            {
+              "type": "paragraph",
+              "text": "Thursday, Sept. 6, 1928."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Thursday, Sept. 6, 1928.</font>       </td>    </tr> </tbody></table>   My dear Wilmarth:—"
+          "text": "My dear Wilmarth:—"
         },
         {
           "type": "paragraph",
@@ -679,16 +770,28 @@
           "text": "Awaiting word, and hoping to see you shortly with the phonograph record and all my letters—and the kodak prints—"
         },
         {
-          "type": "paragraph",
-          "text": "<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\">    <tbody><tr>       <td>          <font size=\"-1\">I am"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "I am"
+            },
+            {
+              "type": "paragraph",
+              "text": "Yours in anticipation,"
+            },
+            {
+              "type": "paragraph",
+              "text": "HENRY W. AKELEY."
+            }
+          ]
         },
         {
           "type": "paragraph",
-          "text": "Yours in anticipation,"
-        },
-        {
-          "type": "paragraph",
-          "text": "HENRY W. AKELEY.</font>       </td>    </tr> </tbody></table>   To Albert N. Wilmarth, Esq.,"
+          "text": "To Albert N. Wilmarth, Esq.,"
         },
         {
           "type": "paragraph",
@@ -731,8 +834,16 @@
           "text": "ARRANGEMENT SATISFACTORY. WILL MEET 1:08 TRAIN WEDNESDAY. DON’T FORGET RECORD AND LETTERS AND PRINTS. KEEP DESTINATION QUIET. EXPECT GREAT REVELATIONS."
         },
         {
-          "type": "paragraph",
-          "text": "AKELEY."
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "AKELEY."
+            }
+          ]
         }
       ]
     },

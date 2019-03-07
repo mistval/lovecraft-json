@@ -28,8 +28,16 @@
           "text": "“Apropos of sleep, that sinister adventure of all our nights, we may say that men go to bed daily with an audacity that would be incomprehensible if we did not know that it is the result of ignorance of the danger.”"
         },
         {
-          "type": "paragraph",
-          "text": "—Baudelaire."
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "—Baudelaire."
+            }
+          ]
         }
       ]
     },

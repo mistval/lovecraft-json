@@ -40,8 +40,16 @@
           "text": "Without knowledge or lustre or name."
         },
         {
-          "type": "paragraph",
-          "text": "<i>—Nemesis.</i>"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "<i>—Nemesis.</i>"
+            }
+          ]
         }
       ]
     },

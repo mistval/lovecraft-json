@@ -524,8 +524,16 @@
           "text": "“I’m too far gone to talk—I couldn’t manage to telephone—but I can still write. I’ll get fixed up somehow and bring you this last word and warning. <i>Kill that fiend </i>if you value the peace and comfort of the world. <i>See that it is cremated. </i>If you don’t, it will live on and on, body to body forever, and I can’t tell you what it will do. Keep clear of black magic, Dan, it’s the devil’s business. Goodbye—you’ve been a great friend. Tell the police whatever they’ll believe—and I’m damnably sorry to drag all this on you. I’ll be at peace before long—this thing won’t hold together much more. Hope you can read this. <i>And kill that thing—kill it</i>."
         },
         {
-          "type": "paragraph",
-          "text": "Yours—Ed.”"
+          "type": "breakline"
+        },
+        {
+          "type": "right",
+          "children": [
+            {
+              "type": "paragraph",
+              "text": "Yours—Ed.”"
+            }
+          ]
         }
       ]
     },

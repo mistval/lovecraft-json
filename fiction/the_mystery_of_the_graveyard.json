@@ -41,7 +41,7 @@
     },
     {
       "type": "paragraph",
-      "text": "It was 3.10 o’clock in y<font size=\"-1\"><sup>e</sup></font> afternoone whenne The door bell of the Dobson mansion rang loudly, and the servant on going to the door, found an elderly man, with black hair, and side whiskers. He asked to see Miss Dobson. Upon arriving in her presence he said, “Miss Dobson, I know where your father is, and for £10,000 I will restore him. My name is Mr. Bell.” “Mr. Bell,” said Miss Dobson, “will you excuse me from the room a moment?” “Certainly”. replied Mr Bell. In a short time she returned, and said, “Mr. Bell, I understand you. You have abducted my father, and hold him for a ransom”"
+      "text": "It was 3.10 o’clock in y<sup>e</sup> afternoone whenne The door bell of the Dobson mansion rang loudly, and the servant on going to the door, found an elderly man, with black hair, and side whiskers. He asked to see Miss Dobson. Upon arriving in her presence he said, “Miss Dobson, I know where your father is, and for £10,000 I will restore him. My name is Mr. Bell.” “Mr. Bell,” said Miss Dobson, “will you excuse me from the room a moment?” “Certainly”. replied Mr Bell. In a short time she returned, and said, “Mr. Bell, I understand you. You have abducted my father, and hold him for a ransom”"
     },
     {
       "type": "breakline"
@@ -155,11 +155,11 @@
     },
     {
       "type": "paragraph",
-      "text": "The Kent train started at 10.35, and about 10.36 an exited, dusty, and tired man<font size=\"-2\"><sup>1</sup></font> rushed into the Mainville hack. office and said to a negro hackman who was standing by the door—“If you can take me to Kent in 15 minutes I will give you a dollar”. “I doan’ see how I’m ter git there”, said the negro “I hab’n’t got a decent pair of hosses an’ I hab—” “Two Dollars”! Shouted The Traveller, “all right” said the Hackman."
+      "text": "The Kent train started at 10.35, and about 10.36 an exited, dusty, and tired man<sup>1</sup> rushed into the Mainville hack. office and said to a negro hackman who was standing by the door—“If you can take me to Kent in 15 minutes I will give you a dollar”. “I doan’ see how I’m ter git there”, said the negro “I hab’n’t got a decent pair of hosses an’ I hab—” “Two Dollars”! Shouted The Traveller, “all right” said the Hackman."
     },
     {
       "type": "paragraph",
-      "text": "<font size=\"-2\"><sup>1</sup></font>King John."
+      "text": "<sup>1</sup>King John."
     },
     {
       "type": "breakline"
@@ -318,8 +318,16 @@
       "type": "breakline"
     },
     {
-      "type": "paragraph",
-      "text": "Price 25¢"
+      "type": "breakline"
+    },
+    {
+      "type": "right",
+      "children": [
+        {
+          "type": "paragraph",
+          "text": "Price 25¢"
+        }
+      ]
     }
   ]
 }
