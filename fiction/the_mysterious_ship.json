@@ -6,26 +6,6 @@
   "description": "",
   "body": [
     {
-      "type": "paragraph",
-      "text": "<html><head><style>  @font-face    {    font-family: 'Packard';    font-style: normal;    font-weight: 400;    src: url(\"http://www.hplovecraft.com/includes/packard-antique-regular.ttf\");    }  </style>        <link href=\"https://fonts.googleapis.com/css?family=Cardo:400,700,400italic&subset=latin,greek-ext,greek,latin-ext\" rel=\"stylesheet\" type=\"text/css\">  <title>\"The Mysterious Ship\" by H. P. Lovecraft</title> <meta name=\"title\" content the mysterious ship\" by h. p. lovecraft\">   <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge;\">   \t<meta name=\"description\" content=\"'The Mysterious Ship' by H. P. Lovecraft\"> \t<meta name=\"keywords\" content=\"'The Mysterious Ship' by H. P. Lovecraft\">  <link rel=\"image_src\" type=\"image/jpeg\" href=\"http://www.hplovecraft.com/life/pics/portrait.jpg\">  <style>  a:hover {color: #FF0000;}  a.GoldLink {text-decoration: none;}  @media screen    {    body       {       margin: 0px;       background-color: #000000;       background-image: url(\"http://www.hplovecraft.com/Wallpaper.jpg\");       }    .pagelayout       {       width: 774px;       background-color: #FFFFFF;       background-image: ;       border-left: 1px solid #666;       border-right: 1px solid #666;       padding-top: 45px;       padding-bottom: 1060px;       }    }  @media print    {    body       {       }    .pagelayout       {       }    }  </style>  <script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script> <script>    (adsbygoogle = window.adsbygoogle || []).push({       google_ad_client: \"ca-pub-7170168716989369\",       enable_page_level_ads: true    }); </script>  </head>  <body bgcolor=\"#FFFFFF\">"
-    },
-    {
-      "type": "center",
-      "children": [
-        {
-          "type": "paragraph",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "text": "</td> \t</tr>   <font face=\"Arial,Sans-Serif\" size=\"-1\">  <div align=\"justify\">"
-    },
-    {
-      "type": "breakline"
-    },
-    {
       "type": "center",
       "children": [
         {
@@ -68,7 +48,7 @@
     },
     {
       "type": "paragraph",
-      "text": "<font size=\"-2\">*(The Frigate.)"
+      "text": "*(The Frigate.)"
     },
     {
       "type": "breakline"
@@ -495,20 +475,6 @@
           "text": "The End"
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "text": "</font></div>       <!--- &nbsp; --->   \t \t\t \t\t\t             <tr>                <td align=\"left\" valign=\"middle\" width=\"26\">                 Return to “The Mysterious Ship”                                          Page Last Revised 20 October 2009                                          URL: http://www.hplovecraft.com/writings/texts/fiction/mys.aspx              \t\t\t \t\t</td> \t</tr>       \t \t\t \t\t\t<tr> \t\t\t\t<td> \t\t\t\t\t<table bgcolor=\"#000000\" border=\"0\" cellpadding=\"0\" cellspacing=\"1\" width=\"100%\"> \t\t\t\t\t\t<tbody><tr> \t\t\t\t\t\t   <td align=\"left\"> \t\t\t\t\t\t      <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\"> \t\t\t\t\t\t         <tbody><tr> \t\t\t\t\t\t\t         <td align=\"center\">                             \t<font color=\"#FFCC00\">Contact Us</font> \t\t\t\t\t\t\t                                        \t<font color=\"#FFCC00\">Site Map</font> \t\t\t\t\t\t\t                                        \t<font color=\"#FFCC00\">Search</font> \t\t\t\t\t\t\t                                        \t<font color=\"#FFCC00\">Donate</font> \t\t\t\t\t\t          \t\t\t\t\t\t       \t\t\t\t\t\t   </td> \t\t\t\t\t\t    \t\t\t\t\t\t       \t\t\t\t\t\t                                     \t<td align=\"right\"><font color=\"#FFCC00\">Copyright © 1998–2019 by Donovan K. Loucks. All Rights Reserved.</font>  \t\t\t\t\t\t\t           \t\t\t\t\t\t          \t\t\t\t\t\t       \t\t\t\t\t\t   </td> \t\t\t\t\t\t</tr> \t\t\t\t\t</tbody></table> \t\t\t\t</td> \t\t\t</tr> \t\t</tbody></table> \t</td> </tr>  </tbody></table>"
-    },
-    {
-      "type": "breakline"
-    },
-    {
-      "type": "breakline"
-    },
-    {
-      "type": "paragraph",
-      "text": "<!-- NavTop -->    <ins class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-7170168716989369\" data-ad-slot=\"3319655614\" data-ad-format=\"auto\"></ins>    <script>    (adsbygoogle = window.adsbygoogle || []).push({});    </script>   </div></center>      <script type=\"text/javascript\" language=\"javascript\">    window.onload = blinkOn;     function blinkOn() {       document.getElementById(\"blink\").style.color = \"#999999\"       setTimeout(\"blinkOff()\", 1000)    }     function blinkOff() {       document.getElementById(\"blink\").style.color = \"#FFCC00\"       setTimeout(\"blinkOn()\", 1000)    } </script>  <script>   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');    ga('create', 'UA-79202876-1', 'auto');   ga('send', 'pageview');  </script></font></body></html>"
     }
   ]
 }
