@@ -76,7 +76,7 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "*\t*TAB_INSERT_TOKEN*"
+          "text": "*\t*\t*"
         }
       ]
     },
@@ -192,7 +192,7 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "*\t*TAB_INSERT_TOKEN*"
+          "text": "*\t*\t*"
         }
       ]
     },

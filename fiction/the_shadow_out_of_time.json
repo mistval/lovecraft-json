@@ -496,7 +496,7 @@
             },
             {
               "type": "paragraph",
-              "text": "\tTAB_INSERT_TOKEN18 May, 1934."
+              "text": "\t\t18 May, 1934."
             }
           ]
         },
@@ -574,11 +574,14 @@
             },
             {
               "type": "paragraph",
-              "text": "\tTAB_INSERT_TOKENRobert B. F. Mackenzie."
+              "text": "\t\tRobert B. F. Mackenzie."
             }
           ]
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",

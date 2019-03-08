@@ -108,6 +108,9 @@
       ]
     },
     {
+      "type": "breakline"
+    },
+    {
       "type": "paragraph",
       "text": "Amid the mists of dream the reader cried to the rhythmical stars, of her delight at the coming of a new age of song, a rebirth of Pan. Half closing her eyes, she repeated words whose melody lay hid like crystals at the bottom of a stream before the dawn; hidden but to gleam effulgently at the birth of day."
     },
@@ -162,6 +165,9 @@
       ]
     },
     {
+      "type": "breakline"
+    },
+    {
       "type": "paragraph",
       "text": ""
     },
@@ -170,7 +176,7 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "*\t*TAB_INSERT_TOKEN*TAB_INSERT_TOKEN*"
+          "text": "*\t*\t*\t*"
         }
       ]
     },
@@ -281,7 +287,7 @@
         },
         {
           "type": "paragraph",
-          "text": "*\t*TAB_INSERT_TOKEN*TAB_INSERT_TOKEN*"
+          "text": "*\t*\t*\t*"
         },
         {
           "type": "paragraph",
@@ -330,7 +336,7 @@
         },
         {
           "type": "paragraph",
-          "text": "*\t*TAB_INSERT_TOKEN*TAB_INSERT_TOKEN*"
+          "text": "*\t*\t*\t*"
         },
         {
           "type": "paragraph",
@@ -376,7 +382,7 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "*\t*TAB_INSERT_TOKEN*TAB_INSERT_TOKEN*"
+          "text": "*\t*\t*\t*"
         }
       ]
     },

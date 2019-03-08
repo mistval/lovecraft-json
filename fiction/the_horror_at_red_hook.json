@@ -37,6 +37,9 @@
       "type": "breakline"
     },
     {
+      "type": "breakline"
+    },
+    {
       "type": "center",
       "children": [
         {
@@ -179,6 +182,9 @@
       ]
     },
     {
+      "type": "breakline"
+    },
+    {
       "type": "paragraph",
       "text": "When he read this he shuddered, and thought vaguely of the cracked bass organ notes he fancied he had heard beneath the church on certain nights. He shuddered again at the rust around the rim of a metal basin which stood on the altar, and paused nervously when his nostrils seemed to detect a curious and ghastly stench from somewhere in the neighbourhood. That organ memory haunted him, and he explored the basement with particular assiduity before he left. The place was very hateful to him; yet after all, were the blasphemous panels and inscriptions more than mere crudities perpetrated by the ignorant?"
     },
@@ -197,6 +203,9 @@
           "text": "“HEL • HELOYM • SOTHER • EMMANVEL • SABAOTH • AGLA • TETRAGRAMMATON • AGYROS • OTHEOS • ISCHYROS • ATHANATOS • IEHOVA • VA • ADONAI • SADAY • HOMOVSION • MESSIAS • ESCHEREHEYE.”"
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
@@ -255,6 +264,9 @@
           ]
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",

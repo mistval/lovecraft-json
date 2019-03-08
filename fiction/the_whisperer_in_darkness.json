@@ -202,7 +202,7 @@
           "children": [
             {
               "type": "paragraph",
-              "text": "Yrs. very truly,\tTAB_INSERT_TOKENTAB_INSERT_TOKEN"
+              "text": "Yrs. very truly,\t\t\t"
             },
             {
               "type": "paragraph",
@@ -215,6 +215,9 @@
           "text": "P.S. I am making some extra prints of certain photographs taken by me, which I think will help to prove a number of the points I have touched on. The old people think they are monstrously true. I shall send you these very soon if you are interested. H.W.A."
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
@@ -370,6 +373,9 @@
       ]
     },
     {
+      "type": "breakline"
+    },
+    {
       "type": "paragraph",
       "text": "\tSuch were the words for which I was to listen when I started the phonograph. It was with a trace of genuine dread and reluctance that I pressed the lever and heard the preliminary scratching of the sapphire point, and I was glad that the first faint, fragmentary words were in a human voice—a mellow, educated voice which seemed vaguely Bostonian in accent, and which was certainly not that of any native of the Vermont hills. As I listened to the tantalisingly feeble rendering, I seemed to find the speech identical with Akeley’s carefully prepared transcript. On it chanted, in that mellow Bostonian voice . . . “Iä! Shub-Niggurath! The Goat with a Thousand Young! . . .”"
     },
@@ -472,6 +478,9 @@
       ]
     },
     {
+      "type": "breakline"
+    },
+    {
       "type": "paragraph",
       "text": "\tBut the affair was steadily deepening. Upon my replying to the telegram I received a shaky note from Akeley with the astonishing news that he had not only never sent the wire, but had not received the letter from me to which it was an obvious reply. Hasty inquiries by him at Bellows Falls had brought out that the message was deposited by a strange sandy-haired man with a curiously thick, droning voice, though more than this he could not learn. The clerk shewed him the original text as scrawled in pencil by the sender, but the handwriting was wholly unfamiliar. It was noticeable that the signature was misspelled—A-K-E-L-Y, without the second “E”. Certain conjectures were inevitable, but amidst the obvious crisis he did not stop to elaborate upon them."
     },
@@ -529,6 +538,9 @@
       ]
     },
     {
+      "type": "breakline"
+    },
+    {
       "type": "paragraph",
       "text": "\tBut this was not the only letter from Akeley to cross mine. On the next morning—September 6th—still another came; this time a frantic scrawl which utterly unnerved me and put me at a loss what to say or do next. Again I cannot do better than quote the text as faithfully as memory will let me."
     },
@@ -575,6 +587,9 @@
           ]
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
@@ -659,6 +674,9 @@
           ]
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
@@ -799,9 +817,12 @@
         },
         {
           "type": "paragraph",
-          "text": "\tTAB_INSERT_TOKENArkham, Mass."
+          "text": "\t\tArkham, Mass."
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
@@ -846,6 +867,9 @@
           ]
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
@@ -1413,6 +1437,9 @@
           ]
         }
       ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
