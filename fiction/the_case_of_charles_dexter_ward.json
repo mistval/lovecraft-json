@@ -1601,8 +1601,7 @@
       ]
     },
     {
-      "type": "paragraph",
-      "text": "</td>"
+      "type": "breakline"
     },
     {
       "type": "center",
@@ -1630,8 +1629,7 @@
       ]
     },
     {
-      "type": "paragraph",
-      "text": "</tr> </tbody></table></center>"
+      "type": "breakline"
     },
     {
       "type": "paragraph",
