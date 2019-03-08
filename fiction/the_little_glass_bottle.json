@@ -11,7 +11,7 @@
     },
     {
       "type": "paragraph",
-      "text": "“Aye aye sir” answered John Towers & the boat was brought to a stand still Captain Jones reached out his hand for the object which he now discerned to be a glass bottle “Nothing but a rum flask that the men on a passing boat threw over” he said but from an impulse of curiosity he reached out for it. it was a rum flask & he was about to throw it away when he noticed a piece of paper in it. He pulled it out & on it read the following"
+      "text": "\t“Aye aye sir” answered John Towers & the boat was brought to a stand still Captain Jones reached out his hand for the object which he now discerned to be a glass bottle “Nothing but a rum flask that the men on a passing boat threw over” he said but from an impulse of curiosity he reached out for it. it was a rum flask & he was about to throw it away when he noticed a piece of paper in it. He pulled it out & on it read the following"
     },
     {
       "type": "breakline"
@@ -31,7 +31,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Captain Jones turned the sheet over & the other side was a chart"
+      "text": "\tCaptain Jones turned the sheet over & the other side was a chart"
     },
     {
       "type": "breakline"
@@ -41,7 +41,12 @@
     },
     {
       "type": "center",
-      "children": []
+      "children": [
+        {
+          "type": "paragraph",
+          "text": "\t"
+        }
+      ]
     },
     {
       "type": "breakline"
@@ -70,7 +75,7 @@
     },
     {
       "type": "paragraph",
-      "text": "“Towers” Said Capt. Jones exitedly “read this” Towers did as he was directed “I think it would pay to go” said Capt. Jones “do you”? “Just as you say” replied Towers. “We’ll charter a schooner this very day” said the exited captain “All right” said Towers so they hired a boat and started off govnd by the dotted lines of they chart in 4 weeks the reached the place where directed & the divers went down and came up with an iron bottle they found in it the following lines scribbled on a piece of brown paper"
+      "text": "\t“Towers” Said Capt. Jones exitedly “read this” Towers did as he was directed “I think it would pay to go” said Capt. Jones “do you”? “Just as you say” replied Towers. “We’ll charter a schooner this very day” said the exited captain “All right” said Towers so they hired a boat and started off govnd by the dotted lines of they chart in 4 weeks the reached the place where directed & the divers went down and came up with an iron bottle they found in it the following lines scribbled on a piece of brown paper"
     },
     {
       "type": "breakline"
@@ -90,7 +95,7 @@
     },
     {
       "type": "paragraph",
-      "text": "“Well it does” said Capt Jones “go on”"
+      "text": "\t“Well it does” said Capt Jones “go on”"
     },
     {
       "type": "breakline"
