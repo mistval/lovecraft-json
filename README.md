@@ -9,11 +9,12 @@ The format is basically like this:
 ```js
 {
   "title": "Story title",
-  "published": "", // This is always empty, for now.
+  "published": "1920",
   "order": 0, // This is always 0, for now.
   "image": "", // This is always empty, for now.
-  "description": "", // This is always empty, for now.
-  "body": [{
+  "description": "A story about monsters and zombies.",
+  "body": [
+    {
       "type": "center",
       "children": [
         {
@@ -64,11 +65,13 @@ The text property of `paragraph` elements can contain some basic HTML tags, incl
 
 `blockquote` can potentially contain `center` elements as children.
 
-You should always add one line break between elements. `breakline` indicates that you should add an extra one.
+You should always add one line break between elements. `breakline` suggests that you should add an extra one.
 
-`horizontal-rule` is equivalent to an HTML `<hr>`. There's only one so far in the whole library (in The Mysterious Ship). 
+`horizontal-rule` is equivalent to an HTML `<hr>`. There's only one so far in the whole library (in The Mysterious Ship).
+
+The story text comes from [The H.P. Lovecraft Archive](http://www.hplovecraft.com/). Most of the descriptions are adapted from Wikipedia synopses, some are just the first sentence of the story, others are written by YT.
 
 ## TODO
 
 * Add poetry and other works
-* Add story descriptions, publish dates.
+* Add The Thing in the Moonlight
