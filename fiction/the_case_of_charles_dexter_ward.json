@@ -1,9 +1,9 @@
 {
   "title": "The Case of Charles Dexter Ward",
-  "published": "",
+  "published": "1941",
   "order": 0,
   "image": "",
-  "description": "",
+  "description": "Charles Dexter Ward is a young man from a prominent Rhode Island family who has disappeared from a mental asylum. He had been incarcerated during a prolonged period of insanity, during which he exhibited minor and inexplicable physiological changes.",
   "body": [
     {
       "type": "blockquote",
@@ -37,7 +37,14 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "I. A Result and a Prologue1."
+          "text": "I. A Result and a Prologue"
+        },
+        {
+          "type": "breakline"
+        },
+        {
+          "type": "paragraph",
+          "text": "1."
         }
       ]
     },
@@ -153,7 +160,14 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "II. An Antecedent and a Horror1."
+          "text": "II. An Antecedent and a Horror"
+        },
+        {
+          "type": "breakline"
+        },
+        {
+          "type": "paragraph",
+          "text": "1."
         }
       ]
     },
@@ -568,7 +582,14 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "III. A Search and an Evocation1."
+          "text": "III. A Search and an Evocation"
+        },
+        {
+          "type": "breakline"
+        },
+        {
+          "type": "paragraph",
+          "text": "1."
         }
       ]
     },
@@ -1037,7 +1058,14 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "IV. A Mutation and a Madness1."
+          "text": "IV. A Mutation and a Madness"
+        },
+        {
+          "type": "breakline"
+        },
+        {
+          "type": "paragraph",
+          "text": "1."
         }
       ]
     },
@@ -1243,6 +1271,9 @@
           ]
         },
         {
+          "type": "breakline"
+        },
+        {
           "type": "paragraph",
           "text": "“P.S. Shoot Dr. Allen on sight <i>and dissolve his body in acid.</i> Don’t burn it.”"
         }
@@ -1419,6 +1450,9 @@
           ]
         },
         {
+          "type": "breakline"
+        },
+        {
           "type": "paragraph",
           "text": "Brother in Almousin-Metraton:—"
         },
@@ -1487,6 +1521,9 @@
           ]
         },
         {
+          "type": "breakline"
+        },
+        {
           "type": "paragraph",
           "text": "Dear C.:—Hadd a Squad of 20 Militia up to talk about what the Country Folk say. Must digg deeper and have less Hearde. These Roumanians plague me damnably, being officious and particular where you cou’d buy a Magyar off with a Drinke and ffood. Last monthe M. got me y<sup>e</sup> Sarcophagus of y<sup>e</sup> Five Sphinxes from y<sup>e</sup> Acropolis where He whome I call’d up say’d it wou’d be, and I have hadde 3 Talkes with <i>What was therein inhum’d.</i> It will go to S. O. in Prague directly, and thence to you. It is stubborn but you know y<sup>e</sup> Way with Such. You shew Wisdom in having lesse about than Before; for there was no Neede to keep the Guards in Shape and eat’g off their Heads, and it made Much to be founde in Case of Trouble, as you too welle knowe. <i>You</i> can now move and worke elsewhere with no Kill’g Trouble if needful, tho’ I hope no Thing will soon force you to so Bothersome a Course. I rejoice that you traffick not so much with <i>Those Outside;</i> for there was ever a Mortall Peril in it, and you are sensible what it did when you ask’d Protection of One not dispos’d to give it. You excel me in gett’g y<sup>e</sup> fformulae so <i>another</i> may saye them with Success, but Borellus fancy’d it wou’d be so if just y<sup>e</sup> right Wordes were hadd. Does y<sup>e</sup> Boy use ’em often? I regret that he growes squeamish, as I fear’d he wou’d when I hadde him here nigh 15 Monthes, but am sensible you knowe how to deal with him. You can’t saye him down with y<sup>e</sup> fformula, for that will Worke only upon such as y<sup>e</sup> other fformula hath call’d up from Saltes; but you still have strong Handes and Knife and Pistol, and Graves are not harde to digg, nor Acids loth to burne. O. sayes you have promis’d him B. F. I must have him after. B. goes to you soone, and may he give you what you wishe of that Darke Thing belowe Memphis. Imploy care in what you calle up, and beware of y<sup>e</sup> Boy. It will be ripe in a yeare’s time to have up y<sup>e</sup> Legions from Underneath, and then there are no Boundes to what shal be oures. Have Confidence in what I saye, for you knowe O. and I have hadd these 150 yeares more than you to consulte these Matters in."
         },
@@ -1534,7 +1571,14 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "V. A Nightmare and a Cataclysm1."
+          "text": "V. A Nightmare and a Cataclysm"
+        },
+        {
+          "type": "breakline"
+        },
+        {
+          "type": "paragraph",
+          "text": "1."
         }
       ]
     },
@@ -1622,10 +1666,6 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "\t"
-        },
-        {
-          "type": "paragraph",
           "text": "Y’AI ’NG’NGAH,"
         },
         {
@@ -1643,6 +1683,29 @@
         {
           "type": "paragraph",
           "text": "<i>UAAAH</i>"
+        },
+        {
+          "type": "breakline"
+        },
+        {
+          "type": "paragraph",
+          "text": "OGTHROD AI’F"
+        },
+        {
+          "type": "paragraph",
+          "text": "GEB’L—EE’H"
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>YOG-SOTHOTH</i>"
+        },
+        {
+          "type": "paragraph",
+          "text": "’NGAH’NG AI’Y"
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>ZHRO</i>"
         }
       ]
     },
@@ -1811,7 +1874,23 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "“Y’AI ’NG’NGAH, YOG-SOTHOTH H’EE—L’GEB F’AI THRODOG UAAAH!”"
+          "text": "Y’AI ’NG’NGAH,"
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>YOG-SOTHOTH</i>"
+        },
+        {
+          "type": "paragraph",
+          "text": "H’EE—L’GEB"
+        },
+        {
+          "type": "paragraph",
+          "text": "F’AI THRODOG"
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>UAAAH</i>"
         }
       ]
     },
@@ -1993,7 +2072,11 @@
           "children": [
             {
               "type": "paragraph",
-              "text": "North End GhoulsActive Again"
+              "text": "North End Ghouls"
+            },
+            {
+              "type": "paragraph",
+              "text": "Active Again"
             }
           ]
         },
@@ -2047,6 +2130,9 @@
               "text": "April 12, 1928."
             }
           ]
+        },
+        {
+          "type": "breakline"
         },
         {
           "type": "paragraph",
@@ -2192,7 +2278,23 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "“OGTHROD AI’F GEB’L—EE’H YOG-SOTHOTH ‘NGAH’NG AI’Y ZHRO!”"
+          "text": "OGTHROD AI’F"
+        },
+        {
+          "type": "paragraph",
+          "text": "GEB’L—EE’H"
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>YOG-SOTHOTH</i>"
+        },
+        {
+          "type": "paragraph",
+          "text": "’NGAH’NG AI’Y"
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>ZHRO</i>"
         }
       ]
     },

@@ -1,16 +1,20 @@
 {
   "title": "The Mystery of the Grave-Yard",
-  "published": "",
+  "published": "1959",
   "order": 0,
   "image": "",
-  "description": "",
+  "description": "It was noon in the Little village of Mainville, and a sorrowful group of people were standing around the Burns’s Tomb.",
   "body": [
     {
       "type": "center",
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter IThe Burns’s Tomb."
+          "text": "Chapter I"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Burns’s Tomb."
         }
       ]
     },
@@ -32,7 +36,12 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter IIMysterious Mr. Bell."
+          "text": "Chapter II"
+        }
+        ,
+        {
+          "type": "paragraph",
+          "text": "Mysterious Mr. Bell."
         }
       ]
     },
@@ -54,7 +63,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter IIIAt The Police Station."
+          "text": "Chapter III"
+        },
+        {
+          "type": "paragraph",
+          "text": "At The Police Station."
         }
       ]
     },
@@ -80,7 +93,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter IVThe West window."
+          "text": "Chapter IV"
+        },
+        {
+          "type": "paragraph",
+          "text": "The West window."
         }
       ]
     },
@@ -102,7 +119,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter VThe Secret of The grave."
+          "text": "Chapter V"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Secret of The grave."
         }
       ]
     },
@@ -124,7 +145,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter VIThe chase for Bell."
+          "text": "Chapter VI"
+        },
+        {
+          "type": "paragraph",
+          "text": "The chase for Bell."
         }
       ]
     },
@@ -146,7 +171,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter VIIThe Negro Hackman."
+          "text": "Chapter VII"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Negro Hackman."
         }
       ]
     },
@@ -172,7 +201,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter VIIIBells Surprise."
+          "text": "Chapter VIII"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bells Surprise."
         }
       ]
     },
@@ -210,7 +243,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter IXThe Trial."
+          "text": "Chapter IX"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Trial."
         }
       ]
     },
@@ -244,7 +281,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter XDobson’s Story."
+          "text": "Chapter X"
+        },
+        {
+          "type": "paragraph",
+          "text": "Dobson’s Story."
         }
       ]
     },
@@ -266,7 +307,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter XIThe Mystery unveiled."
+          "text": "Chapter XI"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Mystery unveiled."
         }
       ]
     },
@@ -288,7 +333,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter XIIConclusion."
+          "text": "Chapter XII"
+        },
+        {
+          "type": "paragraph",
+          "text": "Conclusion."
         }
       ]
     },

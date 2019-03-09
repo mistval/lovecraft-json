@@ -1,9 +1,9 @@
 {
   "title": "The Call of Cthulhu",
-  "published": "",
+  "published": "1928",
   "order": 0,
   "image": "",
-  "description": "",
+  "description": "Francis Wayland Thurston recounts his discovery of various notes left behind by his great uncle, George Gammell Angell, a prominent Professor of Semitic languages at Brown University.",
   "body": [
     {
       "type": "center",
@@ -53,7 +53,7 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "I.The Horror in Clay."
+          "text": "I. The Horror in Clay."
         }
       ]
     },
@@ -135,7 +135,7 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "II.The Tale of Inspector Legrasse."
+          "text": "II. The Tale of Inspector Legrasse."
         }
       ]
     },
@@ -266,11 +266,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "<i>“That is not dead which can eternal lie,"
+          "text": "<i>“That is not dead which can eternal lie,</i>"
         },
         {
           "type": "paragraph",
-          "text": "And with strange aeons even death may die.”</i>"
+          "text": "<i>And with strange aeons even death may die.”</i>"
         }
       ]
     },
@@ -320,7 +320,7 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "III.The Madness from the Sea."
+          "text": "III. The Madness from the Sea."
         }
       ]
     },

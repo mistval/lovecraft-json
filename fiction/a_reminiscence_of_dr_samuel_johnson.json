@@ -1,9 +1,9 @@
 {
   "title": "A Reminiscence of Dr. Samuel Johnson",
-  "published": "",
+  "published": "1917",
   "order": 0,
   "image": "",
-  "description": "",
+  "description": "The Privilege of Reminiscence, however rambling or tiresome, is one generally allow’d to the very aged; indeed, ’tis frequently by means of such Recollections that the obscure occurrences of History, and the lesser Anecdotes of the Great, are transmitted to Posterity.",
   "body": [
     {
       "type": "paragraph",
@@ -43,7 +43,7 @@
     },
     {
       "type": "paragraph",
-      "text": "Dr. <i>Johnson</i> was second to no Man in the Pains he took to revise the bad Verses of others; indeed, ’tis said that in the book of poor blind old Mrs. Williams, there are scarce two lines which are not the Doctor’s. At one Time <i>Johnson</i> recited to me some lines by a Servant to the Duke of <i>Leeds</i><i>,</i> which had so amus’d him, that he had got them by Heart. They are on the Duke’s Wedding, and so much resemble in Quality the Work of other and more recent poetick Dunces, that I cannot forbear copying them:"
+      "text": "\tDr. <i>Johnson</i> was second to no Man in the Pains he took to revise the bad Verses of others; indeed, ’tis said that in the book of poor blind old Mrs. Williams, there are scarce two lines which are not the Doctor’s. At one Time <i>Johnson</i> recited to me some lines by a Servant to the Duke of <i>Leeds</i><i>,</i> which had so amus’d him, that he had got them by Heart. They are on the Duke’s Wedding, and so much resemble in Quality the Work of other and more recent poetick Dunces, that I cannot forbear copying them:"
     },
     {
       "type": "breakline"

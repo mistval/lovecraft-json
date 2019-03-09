@@ -1,9 +1,9 @@
 {
   "title": "The Mysterious Ship",
-  "published": "",
+  "published": "1937",
   "order": 0,
   "image": "",
-  "description": "",
+  "description": "In the spring of 1847, the little village of Ruralville was thrown into a state of exitement by the arrival of a strange brig in the harbour.",
   "body": [
     {
       "type": "center",
@@ -233,7 +233,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "[Long Version]By Anonymus"
+          "text": "[Long Version]"
+        },
+        {
+          "type": "paragraph",
+          "text": "By Anonymus"
         }
       ]
     },

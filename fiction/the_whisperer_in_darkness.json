@@ -1,13 +1,21 @@
 {
   "title": "The Whisperer in Darkness",
-  "published": "",
+  "published": "1931",
   "order": 0,
   "image": "",
-  "description": "",
+  "description": "When local newspapers report strange things seen floating in rivers during a historic Vermont flood, professor Albert N. Wilmarth becomes embroiled in a controversy about the reality and significance of the sightings.",
   "body": [
     {
-      "type": "paragraph",
-      "text": "I."
+      "type": "center",
+      "children": [
+        {
+          "type": "paragraph",
+          "text": "I."
+        }
+      ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
@@ -73,8 +81,16 @@
       "type": "breakline"
     },
     {
-      "type": "paragraph",
-      "text": "II."
+      "type": "center",
+      "children": [
+        {
+          "type": "paragraph",
+          "text": "II."
+        }
+      ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",
@@ -211,6 +227,9 @@
           ]
         },
         {
+          "type": "breakline"
+        },
+        {
           "type": "paragraph",
           "text": "P.S. I am making some extra prints of certain photographs taken by me, which I think will help to prove a number of the points I have touched on. The old people think they are monstrously true. I shall send you these very soon if you are interested. H.W.A."
         }
@@ -275,8 +294,16 @@
       "type": "breakline"
     },
     {
-      "type": "paragraph",
-      "text": "III."
+      "type": "center",
+      "children": [
+        {
+          "type": "paragraph",
+          "text": "III."
+        }
+      ]
+    },
+    {
+      "type": "breakline"
     },
     {
       "type": "paragraph",

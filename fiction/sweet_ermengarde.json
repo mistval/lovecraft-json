@@ -1,16 +1,20 @@
 {
   "title": "Sweet Ermengarde",
-  "published": "",
+  "published": "1943",
   "order": 0,
   "image": "",
-  "description": "",
+  "description": "Her name was originally Ethyl Ermengarde, but her father persuaded her to drop the praenomen after the passage of the 18th Amendment, averring that it made him thirsty by reminding him of ethyl alcohol.",
   "body": [
     {
       "type": "center",
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter I.A Simple Rustic Maid"
+          "text": "Chapter I."
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>A Simple Rustic Maid</i>"
         }
       ]
     },
@@ -84,7 +88,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter II.And the Villain Still Pursued Her"
+          "text": "Chapter II."
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>And the Villain Still Pursued Her</i>"
         }
       ]
     },
@@ -174,7 +182,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter III.A Dastardly Act"
+          "text": "Chapter III."
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>A Dastardly Act</i>"
         }
       ]
     },
@@ -212,7 +224,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter IV.Subtle Villainy"
+          "text": "Chapter IV."
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>Subtle Villainy</i>"
         }
       ]
     },
@@ -246,7 +262,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter V.The City Chap"
+          "text": "Chapter V."
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>The City Chap</i>"
         }
       ]
     },
@@ -276,7 +296,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter VI.Alone in the Great City"
+          "text": "Chapter VI."
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>Alone in the Great City</i>"
         }
       ]
     },
@@ -302,7 +326,11 @@
       "children": [
         {
           "type": "paragraph",
-          "text": "Chapter VII.Happy Ever Afterward"
+          "text": "Chapter VII."
+        },
+        {
+          "type": "paragraph",
+          "text": "<i>Happy Ever Afterward</i>"
         }
       ]
     },
